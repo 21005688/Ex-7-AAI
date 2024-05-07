@@ -71,7 +71,9 @@ if __name__ == "__main__":
 ```
 
 <H3>Output</H3>
-![image](https://github.com/21005688/Ex-7-AAI/assets/94747031/fbb34566-27a6-49d0-86f9-68a405b4f1f4)
+
+
+![ss](https://github.com/21005688/Ex-7-AAI/assets/94747031/a497fe11-8684-4da0-9feb-0f31515d0e1d)
 
 
 
