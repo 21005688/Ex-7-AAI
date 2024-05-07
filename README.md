@@ -17,6 +17,7 @@ Step 5: Construct the main program to read the paragraph  and perform text summa
       - Generate and print the original text.<br>
       - Generate and print the text summary using the  Text Summarization function<br>
 <H3>Program:</H3>
+
 ```
 pip install nltk
 import nltk
@@ -73,7 +74,8 @@ if __name__ == "__main__":
 <H3>Output</H3>
 
 
-![ss](https://github.com/21005688/Ex-7-AAI/assets/94747031/a497fe11-8684-4da0-9feb-0f31515d0e1d)
+![ss](https://github.com/21005688/Ex-7-AAI/assets/94747031/7b58bb04-ccee-4edf-80ce-dc4ffdd132c4)
+
 
 
 
